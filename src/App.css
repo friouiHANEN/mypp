@@ -1,38 +1,181 @@
-.App {
-  text-align: center;
+.desss {
+  color: black !important;
+  margin-left: 500px !important;
+  background-color: aqua !important;
+  border-radius: 50px !important;
+}
+.monta {
+  background-color: white !important;
+  margin-left: 0px;
+  padding: 0px;
+}
+.dess {
+  color: blue !important;
+}
+.design-form {
+  width: 35% !important;
+  margin-left: 800px !important;
+  background-color: white;
+  min-height: 100%;
+  border-radius: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.secon {
   display: flex;
-  flex-direction: column;
+  padding-top: 40px;
+  background-image: url(https://media.istockphoto.com/photos/concept-of-creativity-inspiration-ideas-picture-id1324905580?s=612x612);
+  background-size: 100vh;
+  height: 100% !important;
+  padding-top: 5px;
+}
+.acceuil {
+  color: black;
+  margin-left: 200px;
+  margin-top: 100px;
+  font-size: bold;
+}
+.paragra {
+  font-size: x-large;
+  padding-top: 20px;
+}
+.iimmgg {
+  width: 100%;
+}
+.dodo {
+  position: absolute;
+  width: 500px;
+  height: 6px;
+  left: 27px;
+  top: 1070px;
+
+  background: #000000;
+}
+.ppaa {
+  position: absolute;
+  width: 100px;
+  height: 15px;
+  left: 530px;
+  top: 1065px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 15px;
+  /* identical to box height */
+
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+
+  color: #000000;
+}
+.pointt {
+  position: absolute;
+  width: 550px;
+  height: 6px;
+  left: 750px;
+  top: 1070px;
+
+  background: #000000;
+}
+.divv {
+  display: flex;
+  padding:100px;
+}
+.deshan{
+  position: absolute;
+  width: 20%;
+  margin-top: -100px;
+  height: 150px;
+}
+.desmomo{
+  position: absolute;
+  margin-left: 400px;
+  height: 150px;
+  width:20%;
+  margin-top: -70px;
+}
+.desmeme{
+  position :absolute;
+  margin-left: 800px;
+  height:150px;
+  margin-top:-70px ;
+  width: 10%;
+
+}
+.desart{
+  display: flex;
+  margin-left: 50px;
+  color:blue !important;
+}
+.deseduc{
+  color:blue !important;
+  margin-left: 10px;
+}
+.despsy{
+  color:blue !important;
+  margin-left: 50px;
+}
+.desaprop{
+  color:blue !important;
+  margin-left: 30px;
+}
+.pageaprop{
+  background-color: black;
+  padding: 10px;
+  margin-top: 100px;
   color: white;
+  width: 100%;
+  display: flex;
+  
+ background-size: 100%;
+  
 }
-
-.App-link {
-  color: #61dafb;
+.desabout{
+  margin-left: 100px;
+  background-size: 100%;
 }
+.btndes{
+  display:flex !important;
+ 
+  color: black !important;
+  padding-left:3px !important;
+  justify-content: space-evenly ;
+}
+.dessuiv{
+  margin-top: 50px;
+  justify-content: center !important;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.navpsy{
+  margin-left: 200px;
+}
+.desvideo{
+  display:flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.desh{
+  margin-top: 100px;
+  font-size:medium;
+  color:deeppink;
+}
+.desparagg{
+  margin-top:200px;
+  font-size: medium;
+  padding:20px;
+
+}
+.espp{
+  background-color: blueviolet;
+}
+.nav-exercice{
+  background-color: aqua !important;
+  color:black !important;
+  background-size: 100wh !important;
+}
+.navii{
+  background-color: aqua !important;
+  background-size: 100% 100%;
 }
