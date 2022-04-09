@@ -14,19 +14,35 @@
 }
 .design-form {
   width: 35% !important;
-  margin-left: 800px !important;
+  margin-left: 500px !important;
   background-color: white;
-  min-height: 100%;
   border-radius: 20px;
+  margin-top: 0px !important;
 }
 
 .secon {
   display: flex;
-  padding-top: 40px;
-  background-image: url(https://media.istockphoto.com/photos/concept-of-creativity-inspiration-ideas-picture-id1324905580?s=612x612);
-  background-size: 100vh;
-  height: 100% !important;
-  padding-top: 5px;
+  background-color: aquamarine;
+  height: 100vh !important;
+  padding-top: 20px;
+ 
+}
+.des-image{
+  position: absolute;
+left:12%;
+right: 30%;
+top: 25.9%;
+bottom: -3.23%;
+transform: rotate(-7.15deg);
+background-image: transparent !important;
+width:30%;
+margin-top: 0px;
+
+}
+.des-9raya{
+  position: absolute;
+  color:#ff3385;
+  left:20%;
 }
 .acceuil {
   color: black;
@@ -125,12 +141,52 @@
   padding: 10px;
   margin-top: 100px;
   color: white;
-  width: 100%;
+  width: 100vh;
   display: flex;
   
  background-size: 100%;
   
 }
+.mb-3{
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+.imgoogle{
+height:15px;
+width: 15px;
+
+}
+.signff{
+  display:flex;
+
+}
+.sign{
+ font-family: Poppins;
+Font-style: Regular;
+font-size: 12px;
+line-height: 18px;
+Line-height: 100%;
+text-align: Left;
+Vertical-align: Center;
+margin-top: 10px;
+}
+.facebook{
+  margin-left: 100px;
+  font-family: Poppins;
+  Font-style: Regular;
+  font-size: 12px;
+  line-height: 18px;
+  Line-height: 100%;
+  text-align: Left;
+  Vertical-align: Center;
+  margin-top: 10px;
+}
+.signgoogle{
+  display: flex;
+  
+}
+
 .desabout{
   margin-left: 100px;
   background-size: 100%;
@@ -143,8 +199,8 @@
   justify-content: space-evenly ;
 }
 .dessuiv{
-  margin-top: 50px;
-  justify-content: center !important;
+  margin-top: 10px;
+  margin-left: 150px;
 
 }
 .navpsy{
@@ -179,3 +235,48 @@
   background-color: aqua !important;
   background-size: 100% 100%;
 }
+.create{
+  margin-left: 50px;
+}
+.orr{
+position: absolute;
+width: 50px;
+height: 2px;
+left: 742px;
+top: 203px;
+
+background: #000000;
+}
+.desor{
+margin-left:120px;
+font-family: poppins;
+margin-top: 30px;
+
+}
+.ort{
+  position: absolute;
+width: 50px;
+height: 2px;
+left: 850px;
+top: 203px;
+
+background: #000000;
+
+}
+.goolesign{
+  margin-left: 100px !important;
+  background-color: red;
+}
+.gggo{
+  margin-left: 50px;
+  background-color: #ff3385 !important;
+}
+ .sidebarr{
+   background-color: #b2b2b2;
+   color:black;
+   height:100vh;
+   width: 15%;
+   font-size: x-large;
+   font-family: bold;
+
+ }

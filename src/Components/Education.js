@@ -15,12 +15,11 @@ function Education() {
     <Container>
     
     <Nav className="me-auto">
+    <Nav.Link  onClick={() => navigate("/dashboard")}>Dashboard</Nav.Link> 
       <Nav.Link  onClick={() => navigate("/etudeadistance")}>Etude à distance</Nav.Link>
-      <Nav.Link className="navpsy" onClick={() => navigate("/exercice")} > Exercices</Nav.Link>
-      <Nav.Link className="navpsy" onClick={()=> navigate("/examens")} > Examens</Nav.Link>
-      <Nav.Link className="navpsy" onClick={() => navigate("/debates")} > Debates</Nav.Link>
+     
       <Nav.Link className="navpsy" onClick={() => navigate("/languages")} > Languages</Nav.Link>
-      
+     
     </Nav>
     </Container>
   </Navbar>

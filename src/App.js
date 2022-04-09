@@ -15,6 +15,7 @@ import Etude from "./Components/Compeducation/Etude";
 import Examens from "./Components/Compeducation/Examens";
 import Debats from "./Components/Compeducation/Debats";
 import Languages from "./Components/Compeducation/Languages";
+import Sidebar from "./Components/Sidebar";
 
 function App() {
   return (
@@ -31,11 +32,13 @@ function App() {
         <Route exact path="/aboutus" element={<Aboutt />} />
         <Route exact path="/solution" element={<Solutionn />} />
         <Route exact path="/communicationn" element={<Communicationn />} />
-        <Route exact path="/exercice" element={< Exercice/>} />
+        <Route exact path="/exercices" element={< Exercice/>} />
         <Route exact path="/etudeadistance" element={< Etude/>} />
         <Route exact path="/examens" element={< Examens/>} />
         <Route exact path="/debates" element={< Debats/>} />
         <Route exact path="/languages" element={< Languages/>} />
+        <Route exact path="/dashboard" element={< Sidebar/>} />
+        <Route exact path="/dashboard" element={< Sidebar/>} />
 
       </Routes>
       
